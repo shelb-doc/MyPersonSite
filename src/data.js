@@ -1,35 +1,51 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "JavaScript API Quiz",
+    subtitle: "JavaScript",
+    description:
+      "This is a JavaScript Quiz made by using DOM's to update the questions and move to the high-score page.",
+    image: "./project-1.gif",
+    link: "https://shelb-doc.github.io/javascript-API-quiz/",
+  },
+  {
+    title: "Work Planner",
+    subtitle: "JavaScript and JQuery",
+    description:
+      "This 9 to 5 work day planner application was made using Jquery.",
+    image: "./project-2.gif",
+    link: "https://shelb-doc.github.io/Work-Planner/",
+  },
+  {
+    title: "Weather Dashboard",
+    subtitle: "JavaScript",
+    description:
+      "A Weather dashboard that displays searched cities and the current weather and a forecast.",
+    image: "./project-3.gif",
+    link: "https://shelb-doc.github.io/Weather-Dashboard/",
+  },
+  {
+    title: "Mimikyu Burgers",
+    subtitle: "JavaScript and Handlebars",
+    description:
+      "a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
+    image: "./project-4.gif",
+    link: "https://mimikyu-burger.herokuapp.com/",
+  },
+  {
+    title: "Atlanta Fandom Social",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Are you a fan of multimedia pop culture and living in Atlanta? Atlanta Fandom Social is built just for you! Sign up and become a member of countless communities alike!",
+    image: "./project-5.gif",
+    link: "https://atlfandomsocial.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "CMS Employee Tracker",
+    subtitle: "Javascript, MySQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "a interface that makes it easy for non-developers to view and interact with information stored in databases for managing a company's employees using node, inquirer, and MySQL.",
+    image: "./project-6.gif",
+    link: "https://github.com/shelb-doc/CMS-Employee-Tracker",
   },
 ];
 
