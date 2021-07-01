@@ -51,9 +51,8 @@ return (
         <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
         Hire Me
         </h2>
-        <p className="leading-relaxed mb-5">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-        suscipit officia aspernatur veritatis. Asperiores, aliquid?
+        <p className="leading-relaxed mb-5"> Work Authorization = US Citizen
+        and able to work Full-time, Contract - W2, Contract to Hire - Corp-to-Corp, Contract to Hire - Independent, Contract to Hire - W2, Internship
         </p>
         <div className="relative mb-4">
         <label htmlFor="name" className="leading-7 text-sm text-gray-400">
