@@ -53,8 +53,20 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "React Native",
   "Node",
-  "GraphQL",
+  "Bootstrap",
   "Material UI",
+  "Python",
+  "MySQL",
+  "HTML/CSS",
+  "AWS",
+  "GitHub",
+  "Git",
+  "Postman",
+  "Agile Methodologies",
+  "Confluence",
+  "JIRA",
+  "Adobe Creative Cloud",
+  "Automation & Manual testing"
 ];
