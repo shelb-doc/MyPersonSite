@@ -49,6 +49,17 @@ export const projects = [
   },
 ];
 
+export const designs = [
+  {
+    title: "CMS Employee Tracker",
+    subtitle: "Javascript, MySQL",
+    description:
+      "a interface that makes it easy for non-developers to view and interact with information stored in databases for managing a company's employees using node, inquirer, and MySQL.",
+    image: "./project-6.gif",
+    link: "https://github.com/shelb-doc/CMS-Employee-Tracker",
+  },
+];
+
 
 export const skills = [
   "JavaScript",

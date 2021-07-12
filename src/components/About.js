@@ -8,7 +8,7 @@ return (
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
         Hi, I'm Shelby.
         <br className="hidden lg:inline-block" /> I love to build amazing
-        apps.
+        apps, create designs, test applications.
         </h1>
         <p className="mb-8 leading-relaxed">
         I am learning new programs and developing everyday. So Check back for updates!
