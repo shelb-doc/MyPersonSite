@@ -47,7 +47,7 @@ return (
             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
             PHONE
             </h2>
-            <p className="leading-relaxed">770-668-6431</p>
+            <p className="leading-relaxed">678.680.8638</p>
 
         </div>
         </div>
