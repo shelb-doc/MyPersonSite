@@ -9,13 +9,13 @@ return (
     <div className="flex flex-col w-full mb-20">
         <TemplateIcon className="mx-auto inline-block w-10 mb-4" />
         <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-        🚧Designs and Art *UNDER CONSTRUCTION*🚧
+        Front End Challenges
         </h1>
         <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-        My design work that I have made with the experience of being a graphic designer 
+        Completed Challenges by using FrontEnd Mentor
         </p>
     </div>
-    {/* <div className="flex flex-wrap -m-4">
+    <div className="flex flex-wrap -m-4">
         {designs.map((design) => (
         <a
             href={design.link}
@@ -39,7 +39,7 @@ return (
             </div>
         </a>
         ))}
-    </div> */}
+    </div>
     </div>
 </section>
 );

@@ -51,12 +51,12 @@ export const projects = [
 
 export const designs = [
   {
-    title: "CMS Employee Tracker",
-    subtitle: "Javascript, MySQL",
+    title: "NFT Preview Card Component",
+    subtitle: "HTML, CSS",
     description:
-      "a interface that makes it easy for non-developers to view and interact with information stored in databases for managing a company's employees using node, inquirer, and MySQL.",
-    image: "./project-6.gif",
-    link: "https://github.com/shelb-doc/CMS-Employee-Tracker",
+      "Users should be able to, view the optimal layout depending on their device's screen size and see hover states for interactive elements.",
+    image: "./FE-Challange-1.gif",
+    link: "https://shelb-doc.github.io/NFT-preview-card-component/",
   },
 ];
 
