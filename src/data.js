@@ -58,6 +58,14 @@ export const designs = [
     image: "./FE-Challange-1.gif",
     link: "https://shelb-doc.github.io/NFT-preview-card-component/",
   },
+  {
+    title: "Advice generator app",
+    subtitle: "HTML, CSS, JavaScript",
+    description:
+      "Users should be able to, view the optimal layout depending on their device's screen size, and interact with the page by pressing the Button.",
+    image: "./FE-Challange-2.gif",
+    link: "https://shelb-doc.github.io/Advice_Gen/",
+  },
 ];
 
 
