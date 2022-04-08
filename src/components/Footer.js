@@ -37,7 +37,7 @@ export default function Footer(){
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
             <p class="text-center text-base text-gray-400">
-            &copy; 2021 Shelby-Doc All rights reserved.
+            &copy; 2022 Shelby-Doc All rights reserved.
             </p>
         </div>
         </div>

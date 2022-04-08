@@ -3,7 +3,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
-import Art from "./components/Designs";
+import Designs from "./components/Designs";
 import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 
@@ -13,11 +13,10 @@ export default function App() {
       <Navbar />
       <About />
       <Projects />
-      <Art />
+      <Designs />
       <Skills />
       <Contact />
       <Footer />
-
     </main>
   );
 }
