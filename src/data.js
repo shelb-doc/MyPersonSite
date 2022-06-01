@@ -66,6 +66,15 @@ export const designs = [
     image: "./FE-Challange-2.gif",
     link: "https://shelb-doc.github.io/Advice_Gen/",
   },
+  {
+    title: "Expense Chart Component",
+    subtitle: "HTML, CSS, JavaScript",
+    description:
+      "Use the optimal layout for the content depending on your device's screen size to see the correct size for each type of bar chart",
+    image: "./FE-Challange-3.gif",
+    link: "https://github.com/shelb-doc/Expenses-Chart-Comp",
+  },
+
 ];
 
 
