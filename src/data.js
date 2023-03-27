@@ -32,14 +32,6 @@ export const projects = [
     link: "https://mimikyu-burger.herokuapp.com/",
   },
   {
-    title: "Atlanta Fandom Social",
-    subtitle: "MERN Stack",
-    description:
-      "Are you a fan of multimedia pop culture and living in Atlanta? Atlanta Fandom Social is built just for you! Sign up and become a member of countless communities alike!",
-    image: "./project-5.gif",
-    link: "https://atlfandomsocial.herokuapp.com/",
-  },
-  {
     title: "CMS Employee Tracker",
     subtitle: "Javascript, MySQL",
     description:
@@ -49,7 +41,7 @@ export const projects = [
   },
 ];
 
-export const designs = [
+export const frontend = [
   {
     title: "NFT Preview Card Component",
     subtitle: "HTML, CSS",
@@ -96,5 +88,6 @@ export const skills = [
   "Confluence",
   "JIRA",
   "Adobe Creative Cloud",
-  "Automation & Manual testing"
+  "Automation & Manual Testing",
+  "3rd Party No-Code Testing Tools",
 ];
