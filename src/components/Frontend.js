@@ -1,6 +1,6 @@
 import { TemplateIcon } from "@heroicons/react/solid";
 import React from "react";
-import { designs, frontend } from "../data";
+import { frontend } from "../data";
 
 export default function FrontEnd() {
 return (
